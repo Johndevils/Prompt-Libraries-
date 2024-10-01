@@ -3,4 +3,5 @@ Create a vivid narrative featuring a fierce, anime-style female warrior with lon
 
 Site:-
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://leonardo.ai/&ved=2ahUKEwjS46GgzeyIAxX7na8BHaL2GhsQFnoECAkQAQ&usg=AOvVaw1Q7VzLo7GmkPClPViYkORB
-Preset :-Anime
+
+Preset :-Anime XL
